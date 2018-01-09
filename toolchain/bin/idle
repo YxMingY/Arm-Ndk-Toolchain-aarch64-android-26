@@ -1,0 +1,5 @@
+#!/data/data/com.aide.ui/files/ndksupport-20160121/android-ndk-aide/prebuilt/linux-arm64/bin/python2.7
+
+from idlelib.PyShell import main
+if __name__ == '__main__':
+    main()
